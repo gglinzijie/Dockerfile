@@ -8,6 +8,5 @@ Dockerfile.txt for bioinformatics, with latest ubuntu, miniconda, jupyter lab, N
 
 3. Run jupyter inside the container terminal: jupyter lab --allow-root /root  --port=8888 --no-browser --ip=0.0.0.0
 
-
-
+4. Open browser and go to http://localhost:9005/lab
 
