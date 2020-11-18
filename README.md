@@ -10,3 +10,5 @@ Dockerfile.txt for bioinformatics, with latest ubuntu, miniconda, jupyter lab, N
 
 4. Open browser and go to http://localhost:9005/lab
 
+Youtube vedio: https://www.youtube.com/watch?v=W5auJq2FYAo
+
